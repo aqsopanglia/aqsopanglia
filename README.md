@@ -13,7 +13,7 @@
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, **Robotics**, and **Cyber Security**
 
 ---
-
+**Teck Stack**
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
