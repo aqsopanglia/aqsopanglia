@@ -1,12 +1,8 @@
 # Hi, I'm Aqsopanglia! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f6beb,100:8a2be2&height=180&section=header&text=PLAYER%201:%20AQSO%20🎮&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=58A6FF&center=true&vcenter=true&width=600&lines=Class:+Informatics+Engineering;Specialty:+Artificial+Intelligence;Skill:+Machine+Learning+%26+Robotics;Quest:+Cyber+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vcenter=true&width=550&lines=Artificial+Intelligence;Machine+Learning;Robotics;Cyber+Security" alt="Typing SVG" />
   </a>
 </p>
 
