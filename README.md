@@ -1,4 +1,4 @@
-# Hi, I'm Aqso! 👋
+# Hi, I'm Aqsopanglia! 👋
 
 <!-- Typing Animation -->
 <p align="center">
