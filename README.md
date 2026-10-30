@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 
-- 🤖 **Informatics Engineering major student** at **Universitas Muhammadiyah Prof. DR. HAMKA**
+- 👨‍💻 **Informatics Engineering major student** at **Universitas Muhammadiyah Prof. DR. HAMKA**
 - 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, **Robotics**, and **Cyber Security**
 
 ---
