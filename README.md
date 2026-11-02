@@ -1,4 +1,4 @@
-# Hi, I'm Aqsopanglia! 👋
+# Hi, I'm Aqso! 👋
 
 <p align="center">
   <a href="https://git.io/typing-svg">
